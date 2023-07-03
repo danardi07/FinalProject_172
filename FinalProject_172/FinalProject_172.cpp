@@ -16,7 +16,7 @@ public:
 	void setX(int a) {
 		this->x = a;
 	}
-	void setY(int b) {
+	void setY(int b) { 
 		this->y = b;
 	}
 	
